@@ -1,2 +1,3 @@
 # Artificial-Intelligence-Techniques
-My first repository
+
+### SUBJECT RELATED CODES
